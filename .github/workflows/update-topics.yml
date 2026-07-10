@@ -1,0 +1,30 @@
+name: Update IELTS candidate-recall topics
+
+on:
+  schedule:
+    - cron: '17 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/update-topics.mjs
+      - name: Commit updated topic file
+        run: |
+          if git diff --quiet -- topics.json; then
+            echo "No topic changes"
+            exit 0
+          fi
+          git config user.name "ielts-topic-updater[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add topics.json
+          git commit -m "chore: refresh candidate-recall topics"
+          git push

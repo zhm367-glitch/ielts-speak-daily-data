@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "sourceType": "candidate-recall-unofficial",
+  "updatedAt": "2026-07-10T19:05:20.773Z",
+  "lastCheckedAt": "2026-07-10T19:05:20.773Z",
+  "sources": [
+    {
+      "name": "Examword IELTS Speaking Exam Questions",
+      "url": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "name": "NextStep IELTS Recent Speaking Questions",
+      "url": "https://nextstepielts.com/ielts-speaking-recent-questions/"
+    }
+  ],
+  "questions": [
+    {
+      "id": "f7a78776f02b",
+      "question": "Do you prefer to study in the mornings or the afternoons?",
+      "materialKey": "study-time",
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "463ffc751958",
+      "question": "Do you often feel bored?",
+      "materialKey": "boredom",
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "2c6def9f25aa",
+      "question": "When would you feel bored?",
+      "materialKey": "boredom",
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "4458cb523677",
+      "question": "What do you do when you feel bored?",
+      "materialKey": "boredom",
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "b5a5ba14746c",
+      "question": "Do you think childhood is more boring or adulthood is more boring?",
+      "materialKey": "boredom",
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "question": "What is one app you cannot live without?",
+      "materialKey": "useful-app",
+      "sourceName": "本地考生回忆题初始整理",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "question": "What is the most recent thing you recycled?",
+      "materialKey": "recycling",
+      "sourceName": "本地考生回忆题初始整理",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "question": "Do you prefer typing or handwriting?",
+      "materialKey": "typing-handwriting",
+      "sourceName": "本地考生回忆题初始整理",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    }
+  ]
+}
