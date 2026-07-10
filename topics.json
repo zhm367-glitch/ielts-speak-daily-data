@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-07-10T19:12:51.123Z",
-  "lastCheckedAt": "2026-07-10T19:12:51.123Z",
+  "updatedAt": "2026-07-10T19:22:54.772Z",
+  "lastCheckedAt": "2026-07-10T19:22:54.772Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -14,6 +14,356 @@
     }
   ],
   "questions": [
+    {
+      "id": "0f0ce5038629",
+      "question": "Where is your hometown?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "a7911b1ac3ec",
+      "question": "What do you like about your hometown?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "12caba16b362",
+      "question": "Is it a good place for young people?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "66678dffe9c1",
+      "question": "How long have you been living there?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "7b0c8b761a25",
+      "question": "Do you like living there?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "9bf28c7e817c",
+      "question": "Is there anything you dislike about it?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "2f5fcfc1bc39",
+      "question": "What kinds of things make you laugh?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "f81a281433be",
+      "question": "Do you like making other people laugh?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "218821a027ce",
+      "question": "Do you think it is important to have a sense of humor?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "ed7d537eee79",
+      "question": "Did you watch any funny programs or films recently?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "08d8c53cf3b8",
+      "question": "Can you fix things?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "954ee2f3e09e",
+      "question": "What kinds of things can you fix?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "bd9fd468739b",
+      "question": "Have you ever asked people to teach you to fix things?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "ba3b7eac543c",
+      "question": "Do you think fixing things is a necessary skill?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "fc8be97aacb5",
+      "question": "When did you start to learn science?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "17fb5b351622",
+      "question": "Is there any technology you find helpful in daily life?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "1f4cad5435d9",
+      "question": "Do you think science classes are necessary?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "979e939bc413",
+      "question": "Which science subject interests you?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "1bb1a7b2beb4",
+      "question": "Are there many people growing their vegetables now?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "47148ec8d891",
+      "question": "Do you think it's a good idea to let kids learn how to plant?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "734206f53f7e",
+      "question": "What do you think of the job of a farmer?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "2aa1dac501bb",
+      "question": "What are the differences between traditional and modern agriculture?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "43262805f087",
+      "question": "What are the differences between the technology of the past and that of today?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "e470e91ccd09",
+      "question": "How has modern technology changed the way people work or study in your country?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "b2ee55acda85",
+      "question": "Do you think people rely too much on technology these days?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "83e820d52bbc",
+      "question": "Why or why not?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "fe4f3c1da40f",
+      "question": "What kinds of technology are most popular among young people compared to older generations?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "b772388c60d8",
+      "question": "Do you live in a house or a flat?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "71655b9b054b",
+      "question": "Which is your favorite room?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "30f8c37e2e60",
+      "question": "Can you describe it?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "9bec03a6e7b2",
+      "question": "How long have you lived there?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "ed533bcb04dd",
+      "question": "What do you like the most about it?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "aa3996bb8abe",
+      "question": "Can you describe the view from your windows?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "4cd38678ee92",
+      "question": "Do you plan to live there in the future?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "360e20bb771f",
+      "question": "Do you like reading?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "cfe7d3ff5f85",
+      "question": "Do you prefer to read on paper or on a screen?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "5cad96379c28",
+      "question": "When do you need to read carefully, and when not?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "8e4d12da2933",
+      "question": "Do you often read books?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "85534cf81f03",
+      "question": "Are your reading habits now different from before?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "0b7ce9f8535c",
+      "question": "Have you ever read a novel that has been adapted into a film?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "042e9d991eff",
+      "question": "Which one do you prefer, reading books or watching movies?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "2abf4e373854",
+      "question": "Do you like shopping?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "38bb03ebca33",
+      "question": "Do you compare prices when you shop?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "689f1265831e",
+      "question": "Is it difficult for you to make choices when you shop?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "f8cfcfc7d5da",
+      "question": "Do you think expensive products are always better than cheaper ones?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "3e06d14eff50",
+      "question": "Do you have any hobbies?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "d9bd158a78f0",
+      "question": "Did you have any hobbies when you were a child?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "2513eb74a15b",
+      "question": "Do you have a hobby that you've had since childhood?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "9724a69bf911",
+      "question": "Do you have the same hobbies as your family members?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "id": "1347f55410cc",
+      "question": "What is the right age for a child to learn drawing?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
     {
       "id": "f7a78776f02b",
       "question": "Do you prefer to study in the mornings or the afternoons?",
@@ -50,11 +400,10 @@
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
     },
     {
-      "id": "1ed1e5de085f",
       "question": "What is one app you cannot live without?",
       "materialKey": "useful-app",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/"
+      "sourceName": "本地考生回忆题初始整理",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
     },
     {
       "question": "What is the most recent thing you recycled?",
@@ -63,11 +412,10 @@
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
     },
     {
-      "id": "45ac556dbf8a",
       "question": "Do you prefer typing or handwriting?",
       "materialKey": "typing-handwriting",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/"
+      "sourceName": "本地考生回忆题初始整理",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
     }
   ]
 }

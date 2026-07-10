@@ -29,7 +29,7 @@ function materialKey(question) {
     ['study-time', /(?:study.*(?:morning|afternoon)|(?:morning|afternoon).*study)/i],
     ['boredom', /\b(?:bored|boring|boredom)\b/i],
     ['useful-app', /\b(?:app|application)\b/i],
-    ['recycling', /\b(?:recycl|rubbish|waste sorting)\b/i],
+    ['recycling', /\b(?:recycl\w*|rubbish|waste sorting)\b/i],
     ['typing-handwriting', /\b(?:typing|handwriting|write by hand)\b/i]
   ];
   return rules.find(([, expression]) => expression.test(question))?.[0] || null;
@@ -53,7 +53,6 @@ function extractQuestions(html, source) {
   for (const match of matches) {
     const question = match[1].trim();
     const key = materialKey(question);
-    if (!key) continue;
     found.push({
       id: createHash('sha1').update(`${source.url}:${question}`).digest('hex').slice(0, 12),
       question,
@@ -84,7 +83,7 @@ async function fetchSource(source) {
 function uniqueQuestions(questions) {
   const seen = new Set();
   return questions.filter(item => {
-    const key = `${item.materialKey}:${item.question.toLowerCase()}`;
+    const key = item.question.toLowerCase();
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
@@ -106,13 +105,21 @@ const settled = await Promise.allSettled(SOURCES.map(fetchSource));
 const fetched = settled.flatMap(result => result.status === 'fulfilled' ? result.value : []);
 const fresh = uniqueQuestions(fetched);
 const previousQuestions = Array.isArray(previous?.questions) ? previous.questions : [];
-const selected = SEED_QUESTIONS.flatMap(seed => {
+const fallback = SEED_QUESTIONS.flatMap(seed => {
   const key = seed.materialKey;
   const current = fresh.filter(item => item.materialKey === key);
-  if (current.length) return current;
+  if (current.length) return [];
   const previousForKey = previousQuestions.filter(item => item.materialKey === key);
   return previousForKey.length ? previousForKey : [seed];
 });
+const trainingTopicQuestions = uniqueQuestions([
+  ...fresh.filter(item => item.materialKey),
+  ...fallback
+]);
+const selected = uniqueQuestions([
+  ...fresh.slice(0, 50),
+  ...trainingTopicQuestions
+]).slice(0, 60);
 const now = new Date().toISOString();
 const changed = fingerprint(selected) !== fingerprint(previousQuestions);
 const payload = {
