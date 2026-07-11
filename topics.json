@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-07-11T07:25:32.092Z",
-  "lastCheckedAt": "2026-07-11T07:25:32.092Z",
+  "updatedAt": "2026-07-11T13:07:25.318Z",
+  "lastCheckedAt": "2026-07-11T13:07:25.318Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -400,25 +400,25 @@
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
     },
     {
-      "id": "1ed1e5de085f",
       "question": "What is one app you cannot live without?",
       "materialKey": "useful-app",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/"
+      "id": "f1b9652f4695",
+      "sourceName": "本地考生回忆题初始整理",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
     },
     {
-      "id": "45ac556dbf8a",
-      "question": "Do you prefer typing or handwriting?",
-      "materialKey": "typing-handwriting",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/"
-    },
-    {
-      "id": "6337e460ac3d",
       "question": "What is the most recent thing you recycled?",
       "materialKey": "recycling",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/"
+      "id": "9f30cd8b4b37",
+      "sourceName": "本地考生回忆题初始整理",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
+    },
+    {
+      "question": "Do you prefer typing or handwriting?",
+      "materialKey": "typing-handwriting",
+      "id": "1ad1891c4f90",
+      "sourceName": "本地考生回忆题初始整理",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question"
     }
   ]
 }

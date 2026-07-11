@@ -20,6 +20,7 @@ const SEED_QUESTIONS = [
   { question: 'Do you prefer typing or handwriting?', materialKey: 'typing-handwriting' }
 ].map(item => ({
   ...item,
+  id: createHash('sha1').update(`seed:${item.question}`).digest('hex').slice(0, 12),
   sourceName: '本地考生回忆题初始整理',
   sourceUrl: 'https://www.examword.com/ielts-practice/speaking-exam-question'
 }));
