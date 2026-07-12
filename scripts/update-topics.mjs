@@ -22,7 +22,8 @@ const SEED_QUESTIONS = [
   ...item,
   id: createHash('sha1').update(`seed:${item.question}`).digest('hex').slice(0, 12),
   sourceName: '本地考生回忆题初始整理',
-  sourceUrl: 'https://www.examword.com/ielts-practice/speaking-exam-question'
+  sourceUrl: 'https://www.examword.com/ielts-practice/speaking-exam-question',
+  examDate: '来源页未标注具体考场日期'
 }));
 
 function materialKey(question) {
@@ -54,12 +55,16 @@ function extractQuestions(html, source) {
   for (const match of matches) {
     const question = match[1].trim();
     const key = materialKey(question);
+    const beforeQuestion = text.slice(Math.max(0, (match.index || 0) - 600), match.index || 0);
+    const dateMatches = [...beforeQuestion.matchAll(/\b(20\d{2}-\d{2}-\d{2})\s*:\s*Part\s*[123]/g)];
+    const examDate = dateMatches.length ? dateMatches[dateMatches.length - 1][1] : '来源页未标注具体考场日期';
     found.push({
       id: createHash('sha1').update(`${source.url}:${question}`).digest('hex').slice(0, 12),
       question,
       materialKey: key,
       sourceName: source.name,
-      sourceUrl: source.url
+      sourceUrl: source.url,
+      examDate
     });
   }
   return found;
@@ -82,17 +87,19 @@ async function fetchSource(source) {
 }
 
 function uniqueQuestions(questions) {
-  const seen = new Set();
-  return questions.filter(item => {
+  const byQuestion = new Map();
+  questions.forEach(item => {
     const key = item.question.toLowerCase();
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
+    const existing = byQuestion.get(key);
+    const hasConcreteDate = item.examDate && item.examDate !== '来源页未标注具体考场日期';
+    const existingHasConcreteDate = existing && existing.examDate && existing.examDate !== '来源页未标注具体考场日期';
+    if (!existing || (hasConcreteDate && !existingHasConcreteDate)) byQuestion.set(key, item);
   });
+  return [...byQuestion.values()];
 }
 
 function fingerprint(questions) {
-  return JSON.stringify(questions.map(({ id, question, materialKey, sourceUrl }) => ({ id, question, materialKey, sourceUrl })));
+  return JSON.stringify(questions.map(({ id, question, materialKey, sourceUrl, examDate }) => ({ id, question, materialKey, sourceUrl, examDate })));
 }
 
 async function loadPrevious() {
