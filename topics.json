@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-07-12T13:49:03.636Z",
-  "lastCheckedAt": "2026-07-13T18:21:24.725Z",
+  "updatedAt": "2026-07-14T07:26:25.229Z",
+  "lastCheckedAt": "2026-07-14T07:26:25.229Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -14,6 +14,86 @@
     }
   ],
   "questions": [
+    {
+      "id": "6d610fae241c",
+      "question": "What do you do, work or study?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "7b292699fccd",
+      "question": "What work do you do?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "4e9e5279385f",
+      "question": "Why do you like working for your company?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "9496dd14d1c8",
+      "question": "Is your company good to its employees?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "16541a35b19c",
+      "question": "Who helps you the most?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "7dda39f63955",
+      "question": "Do you want to change jobs?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "134e0840e947",
+      "question": "What are the advantages and disadvantages of being a famous child?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "0436ce525cc2",
+      "question": "What can today's children do to become famous?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "3b73f985f916",
+      "question": "What can children do with their fame?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "921fed992389",
+      "question": "Do people become famous because of their talent?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
     {
       "id": "0f0ce5038629",
       "question": "Where is your hometown?",
@@ -335,92 +415,36 @@
       "examDate": "2026-07-03"
     },
     {
-      "id": "042e9d991eff",
-      "question": "Which one do you prefer, reading books or watching movies?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "2abf4e373854",
-      "question": "Do you like shopping?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "38bb03ebca33",
-      "question": "Do you compare prices when you shop?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "689f1265831e",
-      "question": "Is it difficult for you to make choices when you shop?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "f8cfcfc7d5da",
-      "question": "Do you think expensive products are always better than cheaper ones?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "3e06d14eff50",
-      "question": "Do you have any hobbies?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "d9bd158a78f0",
-      "question": "Did you have any hobbies when you were a child?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "2513eb74a15b",
-      "question": "Do you have a hobby that you've had since childhood?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "9724a69bf911",
-      "question": "Do you have the same hobbies as your family members?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "1347f55410cc",
-      "question": "What is the right age for a child to learn drawing?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
       "id": "f7a78776f02b",
       "question": "Do you prefer to study in the mornings or the afternoons?",
       "materialKey": "study-time",
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
       "examDate": "2026-06-30"
+    },
+    {
+      "id": "1ed1e5de085f",
+      "question": "What is one app you cannot live without?",
+      "materialKey": "useful-app",
+      "sourceName": "NextStep IELTS Recent Speaking Questions",
+      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
+      "examDate": "来源页未标注具体考场日期"
+    },
+    {
+      "id": "45ac556dbf8a",
+      "question": "Do you prefer typing or handwriting?",
+      "materialKey": "typing-handwriting",
+      "sourceName": "NextStep IELTS Recent Speaking Questions",
+      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
+      "examDate": "来源页未标注具体考场日期"
+    },
+    {
+      "id": "6337e460ac3d",
+      "question": "What is the most recent thing you recycled?",
+      "materialKey": "recycling",
+      "sourceName": "NextStep IELTS Recent Speaking Questions",
+      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
+      "examDate": "来源页未标注具体考场日期"
     },
     {
       "id": "463ffc751958",
@@ -453,30 +477,6 @@
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
       "examDate": "2026-06-30"
-    },
-    {
-      "id": "1ed1e5de085f",
-      "question": "What is one app you cannot live without?",
-      "materialKey": "useful-app",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
-      "examDate": "来源页未标注具体考场日期"
-    },
-    {
-      "id": "45ac556dbf8a",
-      "question": "Do you prefer typing or handwriting?",
-      "materialKey": "typing-handwriting",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
-      "examDate": "来源页未标注具体考场日期"
-    },
-    {
-      "id": "6337e460ac3d",
-      "question": "What is the most recent thing you recycled?",
-      "materialKey": "recycling",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
-      "examDate": "来源页未标注具体考场日期"
     }
   ]
 }
