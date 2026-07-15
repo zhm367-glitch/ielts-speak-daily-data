@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-07-14T07:26:25.229Z",
-  "lastCheckedAt": "2026-07-14T16:48:07.301Z",
+  "updatedAt": "2026-07-15T07:31:18.020Z",
+  "lastCheckedAt": "2026-07-15T07:31:18.020Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -63,6 +63,70 @@
       "examDate": "2026-07-13"
     },
     {
+      "id": "8cc0bcaac3c2",
+      "question": "Do you own a car?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "b9f21a16243d",
+      "question": "How often do you use the car?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "e67f0d78a408",
+      "question": "Do you think it is necessary to learn how to drive?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "89d0562104da",
+      "question": "Are there a lot of traffic jams in your city?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "c30f6484c9b8",
+      "question": "Do you like singing?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "4a3854cc1cd0",
+      "question": "Have you ever learned how to sing?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "8c969ee0943e",
+      "question": "Who do you want to sing for?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "acd1f2ff98c1",
+      "question": "Do you think singing can bring people happiness?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
       "id": "134e0840e947",
       "question": "What are the advantages and disadvantages of being a famous child?",
       "materialKey": null,
@@ -89,6 +153,38 @@
     {
       "id": "921fed992389",
       "question": "Do people become famous because of their talent?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "3bef16f60d28",
+      "question": "Which is more suitable for young people, urban life or rural life, and which is more suitable for old people?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "e8fbfc4309a9",
+      "question": "How do people choose a city to travel to?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "814f84da35eb",
+      "question": "Do you think a tourist city is also a good place to live?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-07-13"
+    },
+    {
+      "id": "5ee8c5eb3ece",
+      "question": "Do most people prefer to travel in a modern city or a historical city?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
@@ -319,110 +415,6 @@
       "examDate": "2026-07-03"
     },
     {
-      "id": "71655b9b054b",
-      "question": "Which is your favorite room?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "30f8c37e2e60",
-      "question": "Can you describe it?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "9bec03a6e7b2",
-      "question": "How long have you lived there?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "ed533bcb04dd",
-      "question": "What do you like the most about it?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "aa3996bb8abe",
-      "question": "Can you describe the view from your windows?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "4cd38678ee92",
-      "question": "Do you plan to live there in the future?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "360e20bb771f",
-      "question": "Do you like reading?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "cfe7d3ff5f85",
-      "question": "Do you prefer to read on paper or on a screen?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "5cad96379c28",
-      "question": "When do you need to read carefully, and when not?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "8e4d12da2933",
-      "question": "Do you often read books?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "85534cf81f03",
-      "question": "Are your reading habits now different from before?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "0b7ce9f8535c",
-      "question": "Have you ever read a novel that has been adapted into a film?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-07-03"
-    },
-    {
-      "id": "f7a78776f02b",
-      "question": "Do you prefer to study in the mornings or the afternoons?",
-      "materialKey": "study-time",
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-06-30"
-    },
-    {
       "id": "1ed1e5de085f",
       "question": "What is one app you cannot live without?",
       "materialKey": "useful-app",
@@ -445,6 +437,14 @@
       "sourceName": "NextStep IELTS Recent Speaking Questions",
       "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
       "examDate": "来源页未标注具体考场日期"
+    },
+    {
+      "id": "f7a78776f02b",
+      "question": "Do you prefer to study in the mornings or the afternoons?",
+      "materialKey": "study-time",
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-06-30"
     },
     {
       "id": "463ffc751958",
