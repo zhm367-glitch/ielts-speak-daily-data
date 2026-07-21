@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-07-21T09:38:09.566Z",
-  "lastCheckedAt": "2026-07-21T09:38:09.566Z",
+  "updatedAt": "2026-07-21T17:01:12.251Z",
+  "lastCheckedAt": "2026-07-21T17:01:12.251Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -415,6 +415,30 @@
       "examDate": "2026-07-13"
     },
     {
+      "id": "1ed1e5de085f",
+      "question": "What is one app you cannot live without?",
+      "materialKey": "useful-app",
+      "sourceName": "NextStep IELTS Recent Speaking Questions",
+      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
+      "examDate": "来源页未标注具体考场日期"
+    },
+    {
+      "id": "45ac556dbf8a",
+      "question": "Do you prefer typing or handwriting?",
+      "materialKey": "typing-handwriting",
+      "sourceName": "NextStep IELTS Recent Speaking Questions",
+      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
+      "examDate": "来源页未标注具体考场日期"
+    },
+    {
+      "id": "6337e460ac3d",
+      "question": "What is the most recent thing you recycled?",
+      "materialKey": "recycling",
+      "sourceName": "NextStep IELTS Recent Speaking Questions",
+      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
+      "examDate": "来源页未标注具体考场日期"
+    },
+    {
       "id": "f7a78776f02b",
       "question": "Do you prefer to study in the mornings or the afternoons?",
       "materialKey": "study-time",
@@ -453,30 +477,6 @@
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
       "examDate": "2026-06-30"
-    },
-    {
-      "id": "1ed1e5de085f",
-      "question": "What is one app you cannot live without?",
-      "materialKey": "useful-app",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
-      "examDate": "来源页未标注具体考场日期"
-    },
-    {
-      "id": "6337e460ac3d",
-      "question": "What is the most recent thing you recycled?",
-      "materialKey": "recycling",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
-      "examDate": "来源页未标注具体考场日期"
-    },
-    {
-      "id": "45ac556dbf8a",
-      "question": "Do you prefer typing or handwriting?",
-      "materialKey": "typing-handwriting",
-      "sourceName": "NextStep IELTS Recent Speaking Questions",
-      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
-      "examDate": "来源页未标注具体考场日期"
     }
   ]
 }
