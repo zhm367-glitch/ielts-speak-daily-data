@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-07-29T16:54:42.142Z",
-  "lastCheckedAt": "2026-07-29T16:54:42.142Z",
+  "updatedAt": "2026-07-30T09:43:09.875Z",
+  "lastCheckedAt": "2026-07-30T09:43:09.875Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -418,6 +418,14 @@
       "id": "1ed1e5de085f",
       "question": "What is one app you cannot live without?",
       "materialKey": "useful-app",
+      "sourceName": "NextStep IELTS Recent Speaking Questions",
+      "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
+      "examDate": "来源页未标注具体考场日期"
+    },
+    {
+      "id": "45ac556dbf8a",
+      "question": "Do you prefer typing or handwriting?",
+      "materialKey": "typing-handwriting",
       "sourceName": "NextStep IELTS Recent Speaking Questions",
       "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
       "examDate": "来源页未标注具体考场日期"
