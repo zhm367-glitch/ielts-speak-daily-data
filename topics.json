@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-08-01T07:56:41.510Z",
-  "lastCheckedAt": "2026-08-02T15:47:58.274Z",
+  "updatedAt": "2026-08-02T16:09:23.612Z",
+  "lastCheckedAt": "2026-08-02T16:09:29.250Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -241,7 +241,7 @@
     {
       "id": "cddc804be50f",
       "question": "Do you type on a desktop or laptop keyboard every day?",
-      "materialKey": null,
+      "materialKey": "typing-handwriting",
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
       "examDate": "2026-07-27"
@@ -249,7 +249,7 @@
     {
       "id": "24857a3a796f",
       "question": "When did you learn how to type on a keyboard?",
-      "materialKey": null,
+      "materialKey": "typing-handwriting",
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
       "examDate": "2026-07-27"

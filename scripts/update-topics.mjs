@@ -32,7 +32,7 @@ function materialKey(question) {
     ['boredom', /\b(?:bored|boring|boredom)\b/i],
     ['useful-app', /\b(?:app|application)\b/i],
     ['recycling', /\b(?:recycl\w*|rubbish|waste sorting)\b/i],
-    ['typing-handwriting', /\b(?:typing|handwriting|write by hand)\b/i]
+    ['typing-handwriting', /\b(?:typing|keyboard|handwriting|write by hand)\b/i]
   ];
   return rules.find(([, expression]) => expression.test(question))?.[0] || null;
 }
