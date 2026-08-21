@@ -110,9 +110,15 @@ async function loadPrevious() {
 
 const previous = await loadPrevious();
 const settled = await Promise.allSettled(SOURCES.map(fetchSource));
-const fetched = settled.flatMap(result => result.status === 'fulfilled' ? result.value : []);
-const fresh = uniqueQuestions(fetched);
 const previousQuestions = Array.isArray(previous?.questions) ? previous.questions : [];
+const fetched = settled.flatMap((result, index) => {
+  const source = SOURCES[index];
+  const previousForSource = previousQuestions.filter(item => item.sourceUrl === source.url);
+  if (result.status === 'rejected') return previousForSource;
+  const usable = result.value.filter(item => item.materialKey || item.examDate !== '来源页未标注具体考场日期');
+  return usable.length ? usable : previousForSource;
+});
+const fresh = uniqueQuestions(fetched);
 const fallback = SEED_QUESTIONS.flatMap(seed => {
   const key = seed.materialKey;
   const current = fresh.filter(item => item.materialKey === key);
