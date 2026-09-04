@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-09-03T16:25:08.978Z",
-  "lastCheckedAt": "2026-09-04T04:32:46.499Z",
+  "updatedAt": "2026-09-04T16:21:14.132Z",
+  "lastCheckedAt": "2026-09-04T16:21:14.132Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -15,404 +15,404 @@
   ],
   "questions": [
     {
-      "id": "6d610fae241c",
-      "question": "What do you do, work or study?",
+      "id": "3414d749e03c",
+      "question": "Do you study or work?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "7b292699fccd",
-      "question": "What work do you do?",
+      "id": "b643ad57fa5c",
+      "question": "What is your major?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "4e9e5279385f",
-      "question": "Why do you like working for your company?",
+      "id": "526e98dc2310",
+      "question": "What are your plans after your studies?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "9496dd14d1c8",
-      "question": "Is your company good to its employees?",
+      "id": "2faf24d1e900",
+      "question": "Do you want to change your major?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "16541a35b19c",
-      "question": "Who helps you the most?",
-      "materialKey": null,
+      "id": "f7a78776f02b",
+      "question": "Do you prefer to study in the mornings or the afternoons?",
+      "materialKey": "study-time",
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "7dda39f63955",
-      "question": "Do you want to change jobs?",
+      "id": "3b352dc23d14",
+      "question": "Are you looking forward to working?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "d093a7202a47",
-      "question": "How frequently do you buy shoes?",
+      "id": "407a2b288524",
+      "question": "How much time do you spend on your studies each week?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "46508d35bd7a",
-      "question": "Where do you usually buy shoes?",
+      "id": "5ae42e1e3142",
+      "question": "What changes would you like to see in your school?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "505998146c26",
-      "question": "What is your favorite type of shoes?",
+      "id": "47c06100c57a",
+      "question": "How do you usually deal with your household garbage?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "58fb20156261",
-      "question": "Why do some people have too many shoes?",
+      "id": "091df1bff874",
+      "question": "Do you sort your garbage before throwing it away?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "6597786118bf",
-      "question": "Have you ever bought shoes online?",
+      "id": "ef1aa558f15a",
+      "question": "What do you do when you see garbage on the street?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "2739af3d0aab",
-      "question": "Do you like wearing comfortable shoes or good-looking ones?",
-      "materialKey": null,
+      "id": "2db8bf2c2b71",
+      "question": "Did you learn about recycling when you were a child?",
+      "materialKey": "recycling",
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "4462ebbc8d1a",
-      "question": "Are people willing to buy expensive shoes?",
+      "id": "176059285757",
+      "question": "Do you often feel tired?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "0a83e2e1aaa7",
-      "question": "When was the last time you purchased new shoes?",
+      "id": "5dd9251800f7",
+      "question": "When do you feel tired?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "033413e35727",
-      "question": "Are you a punctual person?",
+      "id": "adca9e6e25cb",
+      "question": "What do you do when you feel tired?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "dcd36e42b1e2",
-      "question": "Do you think it is important to be on time?",
+      "id": "6d9c0716271c",
+      "question": "Do you think you get enough rest?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "259c85f0ef01",
-      "question": "How do you feel when others are late?",
+      "id": "22eb8e98c871",
+      "question": "Are you a polite person?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "3f6d6f5e6d68",
-      "question": "How do you remind yourself to be on time?",
+      "id": "f17dc342c47a",
+      "question": "Do you think people should be polite?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "abf7bb5169fb",
-      "question": "Why are some people consistently late?",
+      "id": "d1f6efa0ba3a",
+      "question": "Who taught you to be polite?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "6059cb65eb7f",
-      "question": "Do you remember your first day at secondary school?",
+      "id": "be5538b83cd4",
+      "question": "Have people become less or more polite over time?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "19ce24287735",
-      "question": "Do you still keep in touch with friends from secondary school?",
+      "id": "54a6802de272",
+      "question": "Do you send emails often?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "13213b6ca7a7",
-      "question": "Do you like growing vegetables?",
+      "id": "8e2f11ffb848",
+      "question": "Is sending emails widespread in your country?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "d60ed125a757",
-      "question": "Should schools teach students how to grow vegetables?",
+      "id": "08e524de4d59",
+      "question": "Do you think emails will be more or less prevalent in the future?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "5ac4abc06b34",
-      "question": "Do many people grow vegetables in your city?",
+      "id": "4a8deaeb330a",
+      "question": "How often do you write emails or cards?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "679a1ce9ec78",
-      "question": "Do you like eating vegetables?",
+      "id": "699db6a21015",
+      "question": "Do you like texting or emails?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "4d3a99070803",
-      "question": "Did you dislike eating any vegetables when you were little?",
+      "id": "c187fc39825a",
+      "question": "Do you prefer to have an email or a card for your birthday?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "56083a9d530a",
-      "question": "Do people often grow vegetables by themselves?",
+      "id": "b52b0b2e1148",
+      "question": "Do you think email will replace letters in the future?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "e7df6e2d00e2",
-      "question": "Where do people usually buy vegetables?",
+      "id": "a61da92a9450",
+      "question": "What will you do if you find something lost by others?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "2da0b278fee5",
-      "question": "What kinds of vegetables are popular in your country?",
+      "id": "3a1a4341c106",
+      "question": "Have you ever lost things?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "6ec5819f9988",
-      "question": "Do you wear a watch?",
+      "id": "df5e120f3a86",
+      "question": "Do you post on social media if you lose your item?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "81d729197abc",
-      "question": "Have you ever gotten a watch as a gift?",
+      "id": "460f05e2c9b1",
+      "question": "Do you report lost items to the police when you find them?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "5eaea3293160",
-      "question": "Why do some people wear expensive watches?",
+      "id": "406372280d78",
+      "question": "Have you ever lost your way?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "8ab6db1837fd",
-      "question": "Do you think the watch is essential for you?",
+      "id": "0a18aca61ef3",
+      "question": "How can you find your way when you are lost?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "08e04dbcfe15",
-      "question": "What kinds of websites do you often visit?",
+      "id": "c420e3d1b313",
+      "question": "Can you read a map when you get lost?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "8b75df5b1f28",
-      "question": "What is your favorite website?",
+      "id": "c9d00343d524",
+      "question": "Have you ever helped someone who got lost?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "db0ca9821455",
-      "question": "Are there any changes to the websites you often visit?",
+      "id": "86cc443333a0",
+      "question": "Is it easy for you to remember people's names?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "4ac7cdf56d6a",
-      "question": "What kinds of websites are popular in your country?",
+      "id": "709efb34b355",
+      "question": "How do you usually remember new names?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "8cc0bcaac3c2",
-      "question": "Do you own a car?",
+      "id": "26c6133d8625",
+      "question": "Do you think it is important to remember people's names?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "b9f21a16243d",
-      "question": "How often do you use the car?",
+      "id": "5c72d2184116",
+      "question": "What would you do if someone cannot remember your name?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "e67f0d78a408",
-      "question": "Do you think it is necessary to learn how to drive?",
+      "id": "bc81e071629e",
+      "question": "Why do some people have a better memory than others?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "89d0562104da",
-      "question": "Are there a lot of traffic jams in your city?",
+      "id": "c91d1262f53e",
+      "question": "Which helps people remember things better: words or photos?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "9e0121e1d63d",
-      "question": "What qualities make a good interviewer?",
+      "id": "3f13191ea98b",
+      "question": "What kinds of advertisements do you watch?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "fbe63d2d311e",
-      "question": "How do interviewers usually prepare before speaking to a celebrity?",
+      "id": "0b062e432b32",
+      "question": "Where can you see advertisements?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "cfb4c953d604",
-      "question": "What kinds of people are usually interviewed in the news?",
+      "id": "39a104d9e9fd",
+      "question": "Have you ever bought something because of its advertisements?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "aa557462e054",
-      "question": "Do you think famous people have a right to privacy?",
+      "id": "603693ee073b",
+      "question": "Do you watch advertisements from beginning to end?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "cb5926faf841",
-      "question": "Why do people like to read the local news?",
+      "id": "5751cf17e0a3",
+      "question": "What can we do to leave a good impression on people we meet for the first time?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "ae2423e4e239",
-      "question": "What are the different news sources today?",
+      "id": "5d2bf4a5e646",
+      "question": "What should we not talk about when meeting someone for the first time?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "642ce95b8494",
-      "question": "How do we identify if the news from the Internet is reliable?",
+      "id": "2f052e9a0fdb",
+      "question": "How do people make friends in your country?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-02"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "1d8459cfffa3",
-      "question": "Where are you living now?",
+      "id": "e49aab80a1a2",
+      "question": "Is it important to have the same hobbies and interests when making friends?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-01"
+      "examDate": "2026-09-03"
     },
     {
-      "id": "9bec03a6e7b2",
-      "question": "How long have you lived there?",
+      "id": "0217ace7bc73",
+      "question": "What qualities make true friends?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-01"
+      "examDate": "2026-09-03"
     },
     {
       "id": "1ed1e5de085f",
@@ -437,14 +437,6 @@
       "sourceName": "NextStep IELTS Recent Speaking Questions",
       "sourceUrl": "https://nextstepielts.com/ielts-speaking-recent-questions/",
       "examDate": "来源页未标注具体考场日期"
-    },
-    {
-      "id": "f7a78776f02b",
-      "question": "Do you prefer to study in the mornings or the afternoons?",
-      "materialKey": "study-time",
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-08-17"
     },
     {
       "id": "463ffc751958",
