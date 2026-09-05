@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-09-04T16:21:14.132Z",
-  "lastCheckedAt": "2026-09-05T04:28:24.238Z",
+  "updatedAt": "2026-09-05T15:13:31.420Z",
+  "lastCheckedAt": "2026-09-05T15:13:31.420Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -14,6 +14,94 @@
     }
   ],
   "questions": [
+    {
+      "id": "b772388c60d8",
+      "question": "Do you live in a house or a flat?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "71655b9b054b",
+      "question": "Which is your favorite room?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "30f8c37e2e60",
+      "question": "Can you describe it?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "9bec03a6e7b2",
+      "question": "How long have you lived there?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "ed533bcb04dd",
+      "question": "What do you like the most about it?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "aa3996bb8abe",
+      "question": "Can you describe the view from your windows?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "4cd38678ee92",
+      "question": "Do you plan to live there in the future?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "7f368f63ba77",
+      "question": "Do you have a favorite teacher?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "aeee34326000",
+      "question": "Do you remember your teachers from primary school?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "201c919c1552",
+      "question": "Do you want to be a teacher in the future?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "39f5618071d4",
+      "question": "What kind of teacher do you prefer?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
     {
       "id": "3414d749e03c",
       "question": "Do you study or work?",
@@ -321,94 +409,6 @@
     {
       "id": "5c72d2184116",
       "question": "What would you do if someone cannot remember your name?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "bc81e071629e",
-      "question": "Why do some people have a better memory than others?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "c91d1262f53e",
-      "question": "Which helps people remember things better: words or photos?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "3f13191ea98b",
-      "question": "What kinds of advertisements do you watch?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "0b062e432b32",
-      "question": "Where can you see advertisements?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "39a104d9e9fd",
-      "question": "Have you ever bought something because of its advertisements?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "603693ee073b",
-      "question": "Do you watch advertisements from beginning to end?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "5751cf17e0a3",
-      "question": "What can we do to leave a good impression on people we meet for the first time?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "5d2bf4a5e646",
-      "question": "What should we not talk about when meeting someone for the first time?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "2f052e9a0fdb",
-      "question": "How do people make friends in your country?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "e49aab80a1a2",
-      "question": "Is it important to have the same hobbies and interests when making friends?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "0217ace7bc73",
-      "question": "What qualities make true friends?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
