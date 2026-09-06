@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-09-05T15:13:31.420Z",
-  "lastCheckedAt": "2026-09-06T04:38:40.040Z",
+  "updatedAt": "2026-09-06T15:27:49.063Z",
+  "lastCheckedAt": "2026-09-06T15:27:49.063Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -97,6 +97,150 @@
     {
       "id": "39f5618071d4",
       "question": "What kind of teacher do you prefer?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "134d79e31cd8",
+      "question": "Do you like traveling?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "b4b56978bed2",
+      "question": "Do you prefer to sit by the window when traveling?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "c40dbd82dbc5",
+      "question": "Did you have a long journey with your family as a child?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "ce07167109f0",
+      "question": "Do you take photos of the scenery outside the car window?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "d7c4c4778480",
+      "question": "Do you prefer the mountains or the sea?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "72f8418cba4c",
+      "question": "Do children like to change their opinions?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "bda6a93ee2a5",
+      "question": "Why do people change opinions?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "0e08b2302242",
+      "question": "Who do young people turn to for advice?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "5108de30e5da",
+      "question": "Do people like giving an opinion about politics?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "e7b66777d7d5",
+      "question": "Do you talk about this person often?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "254a7643f6fc",
+      "question": "What do you think makes a person truly happy in life?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "fd0a85f3fd04",
+      "question": "Do you think money is necessary to be happy?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "47f3449ea93f",
+      "question": "Is happiness more important than success in a career?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "7f6def77baf0",
+      "question": "How can a person's mood affect the people around them?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "65ecbc7b2aa1",
+      "question": "Where do children learn skills in your country?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "d35bffaac4d2",
+      "question": "What are the differences between learning skills on your own and from others?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "3fb1b398ef4d",
+      "question": "What important skills should a child learn?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-04"
+    },
+    {
+      "id": "9045c8676dc5",
+      "question": "What skills do you think teenagers should have?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
@@ -265,150 +409,6 @@
     {
       "id": "54a6802de272",
       "question": "Do you send emails often?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "8e2f11ffb848",
-      "question": "Is sending emails widespread in your country?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "08e524de4d59",
-      "question": "Do you think emails will be more or less prevalent in the future?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "4a8deaeb330a",
-      "question": "How often do you write emails or cards?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "699db6a21015",
-      "question": "Do you like texting or emails?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "c187fc39825a",
-      "question": "Do you prefer to have an email or a card for your birthday?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "b52b0b2e1148",
-      "question": "Do you think email will replace letters in the future?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "a61da92a9450",
-      "question": "What will you do if you find something lost by others?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "3a1a4341c106",
-      "question": "Have you ever lost things?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "df5e120f3a86",
-      "question": "Do you post on social media if you lose your item?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "460f05e2c9b1",
-      "question": "Do you report lost items to the police when you find them?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "406372280d78",
-      "question": "Have you ever lost your way?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "0a18aca61ef3",
-      "question": "How can you find your way when you are lost?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "c420e3d1b313",
-      "question": "Can you read a map when you get lost?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "c9d00343d524",
-      "question": "Have you ever helped someone who got lost?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "86cc443333a0",
-      "question": "Is it easy for you to remember people's names?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "709efb34b355",
-      "question": "How do you usually remember new names?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "26c6133d8625",
-      "question": "Do you think it is important to remember people's names?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-03"
-    },
-    {
-      "id": "5c72d2184116",
-      "question": "What would you do if someone cannot remember your name?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
