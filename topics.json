@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-09-08T16:37:53.107Z",
-  "lastCheckedAt": "2026-09-09T04:41:34.102Z",
+  "updatedAt": "2026-09-09T16:38:03.977Z",
+  "lastCheckedAt": "2026-09-09T16:38:03.977Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -215,6 +215,118 @@
       "examDate": "2026-09-07"
     },
     {
+      "id": "9e0121e1d63d",
+      "question": "What qualities make a good interviewer?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "fbe63d2d311e",
+      "question": "How do interviewers usually prepare before speaking to a celebrity?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "cfb4c953d604",
+      "question": "What kinds of people are usually interviewed in the news?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "aa557462e054",
+      "question": "Do you think famous people have a right to privacy?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "843bc735be75",
+      "question": "Do people often change their plans in your country?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "472b51e60f45",
+      "question": "Is it important for people to make plans?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "37d0951e8abb",
+      "question": "Why do some people dislike changes in plans?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "7f3ea797c221",
+      "question": "Is it difficult to do business in today's world?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "8c98f8468af7",
+      "question": "How can companies help protect the environment?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "b6b5373eabf5",
+      "question": "Does money equal success?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "b68a77f0febf",
+      "question": "Why do people enjoy visiting new places?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "b30692eab196",
+      "question": "Do young people and old people like visiting the same kinds of places?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "87ab08a827ab",
+      "question": "What are the benefits of traveling with family?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
+      "id": "e7382af9b9f5",
+      "question": "Do you think tourism will become more popular in the future?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-07"
+    },
+    {
       "id": "b772388c60d8",
       "question": "Do you live in a house or a flat?",
       "materialKey": null,
@@ -297,118 +409,6 @@
     {
       "id": "39f5618071d4",
       "question": "What kind of teacher do you prefer?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "134d79e31cd8",
-      "question": "Do you like traveling?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "b4b56978bed2",
-      "question": "Do you prefer to sit by the window when traveling?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "c40dbd82dbc5",
-      "question": "Did you have a long journey with your family as a child?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "ce07167109f0",
-      "question": "Do you take photos of the scenery outside the car window?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "d7c4c4778480",
-      "question": "Do you prefer the mountains or the sea?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "72f8418cba4c",
-      "question": "Do children like to change their opinions?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "bda6a93ee2a5",
-      "question": "Why do people change opinions?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "0e08b2302242",
-      "question": "Who do young people turn to for advice?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "5108de30e5da",
-      "question": "Do people like giving an opinion about politics?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "e7b66777d7d5",
-      "question": "Do you talk about this person often?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "254a7643f6fc",
-      "question": "What do you think makes a person truly happy in life?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "fd0a85f3fd04",
-      "question": "Do you think money is necessary to be happy?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "47f3449ea93f",
-      "question": "Is happiness more important than success in a career?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-04"
-    },
-    {
-      "id": "7f6def77baf0",
-      "question": "How can a person's mood affect the people around them?",
       "materialKey": null,
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
