@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceType": "candidate-recall-unofficial",
-  "updatedAt": "2026-09-11T16:28:05.677Z",
-  "lastCheckedAt": "2026-09-12T04:33:44.350Z",
+  "updatedAt": "2026-09-12T15:31:19.107Z",
+  "lastCheckedAt": "2026-09-12T15:31:19.107Z",
   "sources": [
     {
       "name": "Examword IELTS Speaking Exam Questions",
@@ -14,6 +14,254 @@
     }
   ],
   "questions": [
+    {
+      "id": "6d610fae241c",
+      "question": "What do you do, work or study?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "7b292699fccd",
+      "question": "What work do you do?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "4e9e5279385f",
+      "question": "Why do you like working for your company?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "9496dd14d1c8",
+      "question": "Is your company good to its employees?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "16541a35b19c",
+      "question": "Who helps you the most?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "7dda39f63955",
+      "question": "Do you want to change jobs?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "6059cb65eb7f",
+      "question": "Do you remember your first day at secondary school?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "19ce24287735",
+      "question": "Do you still keep in touch with friends from secondary school?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "a5a771eed92b",
+      "question": "Do you collect things?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "53589f6d7f61",
+      "question": "Are there any things you have kept from your childhood?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "74c1f86815bd",
+      "question": "Where do you usually keep the things you collect?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "d24d9f49926c",
+      "question": "Would you keep old things for a long time?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "7f368f63ba77",
+      "question": "Do you have a favorite teacher?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "4e3e92fc2f47",
+      "question": "Do you remember your primary school teachers?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "201c919c1552",
+      "question": "Do you want to be a teacher in the future?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "39f5618071d4",
+      "question": "What kind of teacher do you prefer?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "e6014fd186e9",
+      "question": "When was the first time you used a computer or a tablet?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "320957b8222a",
+      "question": "What will your life be like without computers or a tablet?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "2c634f92a97f",
+      "question": "Do you think doctors and nurses are very important?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "885db92891e2",
+      "question": "Who plays a more important role, doctors or nurses?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "5803bba66e7d",
+      "question": "Do you think that doctors and nurses are not paid enough?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "b45fc6128153",
+      "question": "Do you think it is necessary to learn first aid skills?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "b5c44ece619d",
+      "question": "What can young people learn from older generations?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "7d328d4bb007",
+      "question": "What can older people learn from younger people?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "ae11cf7f989e",
+      "question": "Do you think there is a big generation gap between young and older adults nowadays?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "8a583c8141eb",
+      "question": "What role do older adults play in a traditional family?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "8e14e47a96b1",
+      "question": "How has the status or role of older adults changed compared to the past?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "91a89c54786c",
+      "question": "Do children enjoy doing arts and crafts?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "14c77578e506",
+      "question": "Is creativity an innate trait or can it be cultivated over time?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "41500e4a8bce",
+      "question": "Should all children take art classes?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
+    {
+      "id": "8be3519679c9",
+      "question": "What impact does artistic and cultural development have on society?",
+      "materialKey": null,
+      "sourceName": "Examword IELTS Speaking Exam Questions",
+      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
+      "examDate": "2026-09-11"
+    },
     {
       "id": "1d8459cfffa3",
       "question": "Where are you living now?",
@@ -165,254 +413,6 @@
       "sourceName": "Examword IELTS Speaking Exam Questions",
       "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
       "examDate": "2026-09-10"
-    },
-    {
-      "id": "d5a6e253de09",
-      "question": "Are you a tidy person?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "699921068e3c",
-      "question": "How do you keep things tidy?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "f7b3b3066305",
-      "question": "Do you think people should be tidy all the time?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "cb5926faf841",
-      "question": "Why do people like to read the local news?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "ae2423e4e239",
-      "question": "What are the different news sources today?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "642ce95b8494",
-      "question": "How do we identify if the news from the Internet is reliable?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "69d444cca6fa",
-      "question": "What kinds of photos do people usually enjoy taking?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "84c9ff5af089",
-      "question": "Do you think it is acceptable to take photos anywhere?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "f9fb8b2f17d9",
-      "question": "What's your view on this?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "6878d9bbd166",
-      "question": "Why do some people enjoy taking photos while others rarely do?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "0777d763e435",
-      "question": "Why do so many people choose to share their photos on social media?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "e2e1896b8b30",
-      "question": "Are IT-related jobs valued more by society?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "9728f4b20711",
-      "question": "Is the quality of products worse than before?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "87b1c3e71f11",
-      "question": "What kinds of things do people like to repair by themselves?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "8c35697edde3",
-      "question": "Why do people prefer to have their mobile phones repaired at specialized stores?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "4bbc30eb4a8e",
-      "question": "Are there any festivals that have already disappeared in your country?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "a682378b11e1",
-      "question": "Why do you think people still celebrate some traditional festivals?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "83ffb596af61",
-      "question": "Why should children learn about traditions?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "9c704d699a23",
-      "question": "Are there any particular music or snacks involved in celebrating traditional festivals?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-10"
-    },
-    {
-      "id": "0f0ce5038629",
-      "question": "Where is your hometown?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "a7911b1ac3ec",
-      "question": "What do you like about your hometown?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "12caba16b362",
-      "question": "Is it a good place for young people?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "66678dffe9c1",
-      "question": "How long have you been living there?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "7b0c8b761a25",
-      "question": "Do you like living there?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "9bf28c7e817c",
-      "question": "Is there anything you dislike about it?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "0169f5c43850",
-      "question": "How often do you visit your relatives?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "70880b8b918e",
-      "question": "What do you usually do during your visit?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "10b7c2f65a1e",
-      "question": "When was the last time you visited them?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "1908e59127a7",
-      "question": "What things do people do while visiting relatives?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "ce60c4cc7296",
-      "question": "Do you enjoy spending time with your relatives?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
-    },
-    {
-      "id": "7aa1be813665",
-      "question": "Do you prefer to visit your relatives or friends?",
-      "materialKey": null,
-      "sourceName": "Examword IELTS Speaking Exam Questions",
-      "sourceUrl": "https://www.examword.com/ielts-practice/speaking-exam-question",
-      "examDate": "2026-09-07"
     },
     {
       "id": "1ed1e5de085f",
